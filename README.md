@@ -1,2 +1,3 @@
-# travel
-Travel notes.
+# Travel
+
+Places we want to visit.
