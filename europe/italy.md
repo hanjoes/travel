@@ -1,5 +1,0 @@
-# Italy
-
-## Rome
-
-## Florence
