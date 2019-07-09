@@ -3,7 +3,7 @@ layout: post
 title: "Rome"
 date: 2019-07-08
 description: Photo by Kyle Arcilla on Unsplash
-image: /assets/images/kyle-arcilla-dOS5UItNvqY-unsplash.jpg
+image: /travel/assets/images/kyle-arcilla-dOS5UItNvqY-unsplash.jpg
 author: hanjoes
 tags:
   - Europe
