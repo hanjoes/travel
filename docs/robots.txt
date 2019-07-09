@@ -1,1 +1,1 @@
-Sitemap: http://barber.samesies.io/sitemap.xml
+Sitemap: http://barber.samesies.io/travel/sitemap.xml
